@@ -7,4 +7,4 @@ Implemented methods to calculate the sample standard deviation, sample mean of p
 Back-end development in Java. Front-end development was provided by the course instructors.
 
 Currently, this program deals with a backwash bug (due to the virtaul top and virtual bottom idea implemented)
-For more information on the assignment click [here](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php).
+For more information on the assignment (Assignment #1 from Algorithms 1 Princeton Coursera Course) click [here](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php).
